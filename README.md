@@ -9,7 +9,7 @@ Huge shout-out to [@gabbynobili](https://github.com/gabbynobili) for working on 
 **Libraries:**
   + [`numpy`](www.numpy.org)
   + [`pandas`](pandas.pydata.org)
-  + `requests`
+  + [`requests`](docs.python-requests.org)
   + [`plotly`](https://plot.ly/)
   + [`matplotlib`](https://matplotlib.org/)
   + [`sklearn`](scikit-learn.org/)
