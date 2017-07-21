@@ -7,12 +7,12 @@ Huge shout-out to [@gabbynobili](https://github.com/gabbynobili) for working on 
   + Python 3 (Jupyter Notebook)
   
 **Libraries:**
-  + [`numpy`](www.numpy.org)
-  + [`pandas`](pandas.pydata.org)
-  + [`requests`](docs.python-requests.org)
+  + [`numpy`](https://www.numpy.org)
+  + [`pandas`](https://pandas.pydata.org)
+  + [`requests`](https://docs.python-requests.org)
   + [`plotly`](https://plot.ly/)
   + [`matplotlib`](https://matplotlib.org/)
-  + [`sklearn`](scikit-learn.org/)
+  + [`sklearn`](https://scikit-learn.org/)
   + [`bs4`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 Please don't hesitate to either reach out to us or make pull requests with revisions to make this implementation better!
